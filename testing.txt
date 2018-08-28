@@ -1,1 +1,10 @@
-checking git commands
+#Simple Steps to setup Git Repository .......................
+#Firstly you need to create a Repository on Github.com.
+#After Creating Repo you have to use 
+
+#git clone <cloning url of the repo which is being provided on the your github repository>
+#example:-
+
+git clone https://github.com/AbhinavShah421/demo.git
+
+
